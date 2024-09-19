@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.AssemblyInfo.cs
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\bin\Debug\net8.0\02. Stack Sum.exe
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\bin\Debug\net8.0\02. Stack Sum.deps.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\bin\Debug\net8.0\02. Stack Sum.runtimeconfig.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\bin\Debug\net8.0\02. Stack Sum.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\bin\Debug\net8.0\02. Stack Sum.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\refint\02. Stack Sum.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\02. Stack Sum.genruntimeconfig.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\02. Stack Sum\02. Stack Sum\obj\Debug\net8.0\ref\02. Stack Sum.dll

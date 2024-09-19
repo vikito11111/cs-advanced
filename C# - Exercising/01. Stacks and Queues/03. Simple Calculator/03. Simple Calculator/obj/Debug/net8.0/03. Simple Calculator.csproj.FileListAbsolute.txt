@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.exe
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.deps.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.runtimeconfig.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\bin\Debug\net8.0\03. Simple Calculator.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.AssemblyInfo.cs
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\refint\03. Simple Calculator.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\03. Simple Calculator.genruntimeconfig.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\03. Simple Calculator\03. Simple Calculator\obj\Debug\net8.0\ref\03. Simple Calculator.dll

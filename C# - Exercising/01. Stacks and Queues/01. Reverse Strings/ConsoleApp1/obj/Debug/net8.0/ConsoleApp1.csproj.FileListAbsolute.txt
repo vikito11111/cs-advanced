@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+D:\Coding\SoftUni\12. C# - Exercising\01. Stacks and Queues\01. Reverse Strings\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
