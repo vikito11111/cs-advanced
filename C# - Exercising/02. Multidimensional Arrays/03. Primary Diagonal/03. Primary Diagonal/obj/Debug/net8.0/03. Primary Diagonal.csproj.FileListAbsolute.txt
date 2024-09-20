@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\bin\Debug\net8.0\03. Primary Diagonal.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\refint\03. Primary Diagonal.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\03. Primary Diagonal.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\03. Primary Diagonal\03. Primary Diagonal\obj\Debug\net8.0\ref\03. Primary Diagonal.dll
