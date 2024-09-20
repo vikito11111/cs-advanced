@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\bin\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\refint\02. Sum Matrix Columns.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\02. Sum Matrix Columns.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\02. Multidimensional Arrays\02. Sum Matrix Columns\02. Sum Matrix Columns\obj\Debug\net8.0\ref\02. Sum Matrix Columns.dll
