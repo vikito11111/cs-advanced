@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\bin\Debug\net8.0\02. Average Student Grades.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\refint\02. Average Student Grades.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\02. Average Student Grades.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\02. Average Student Grades\02. Average Student Grades\obj\Debug\net8.0\ref\02. Average Student Grades.dll

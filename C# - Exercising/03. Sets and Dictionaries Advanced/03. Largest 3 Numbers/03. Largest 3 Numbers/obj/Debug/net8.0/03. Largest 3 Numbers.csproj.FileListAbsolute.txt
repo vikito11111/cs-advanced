@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\bin\Debug\net8.0\03. Largest 3 Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\refint\03. Largest 3 Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\03. Largest 3 Numbers.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\03. Sets and Dictionaries Advanced\03. Largest 3 Numbers\03. Largest 3 Numbers\obj\Debug\net8.0\ref\03. Largest 3 Numbers.dll
