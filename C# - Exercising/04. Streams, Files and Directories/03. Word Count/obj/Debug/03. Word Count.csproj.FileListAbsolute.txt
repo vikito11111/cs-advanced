@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\bin\Debug\_03.Word_Count.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\bin\Debug\_03.Word_Count.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\bin\Debug\_03.Word_Count.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\obj\Debug\03. Word Count.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\obj\Debug\03. Word Count.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\obj\Debug\_03.Word_Count.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\03. Word Count\obj\Debug\_03.Word_Count.pdb

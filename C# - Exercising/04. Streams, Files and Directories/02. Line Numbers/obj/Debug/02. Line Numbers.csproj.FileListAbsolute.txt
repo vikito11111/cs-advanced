@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\bin\Debug\_02.Line_Numbers.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\bin\Debug\_02.Line_Numbers.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\bin\Debug\_02.Line_Numbers.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\obj\Debug\02. Line Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\obj\Debug\_02.Line_Numbers.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\02. Line Numbers\obj\Debug\_02.Line_Numbers.pdb
