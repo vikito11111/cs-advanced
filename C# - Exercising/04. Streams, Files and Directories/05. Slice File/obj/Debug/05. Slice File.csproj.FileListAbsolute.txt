@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\bin\Debug\_05.Slice_File.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\bin\Debug\_05.Slice_File.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\bin\Debug\_05.Slice_File.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\obj\Debug\05. Slice File.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\obj\Debug\05. Slice File.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\obj\Debug\_05.Slice_File.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\05. Slice File\obj\Debug\_05.Slice_File.pdb

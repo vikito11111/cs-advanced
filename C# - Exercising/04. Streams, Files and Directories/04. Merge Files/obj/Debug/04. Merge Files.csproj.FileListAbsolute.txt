@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\bin\Debug\_04.Merge_Files.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\bin\Debug\_04.Merge_Files.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\bin\Debug\_04.Merge_Files.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\obj\Debug\04. Merge Files.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\obj\Debug\04. Merge Files.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\obj\Debug\_04.Merge_Files.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\04. Merge Files\obj\Debug\_04.Merge_Files.pdb

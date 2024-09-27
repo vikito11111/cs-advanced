@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\bin\Debug\_06.Folder_Size.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\bin\Debug\_06.Folder_Size.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\bin\Debug\_06.Folder_Size.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\obj\Debug\06. Folder Size.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\obj\Debug\06. Folder Size.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\obj\Debug\_06.Folder_Size.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\04. Streams, Files and Directories\Lab\06. Folder Size\obj\Debug\_06.Folder_Size.pdb
