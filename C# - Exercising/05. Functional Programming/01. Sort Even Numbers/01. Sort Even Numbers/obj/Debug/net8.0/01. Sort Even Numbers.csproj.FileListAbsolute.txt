@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\bin\Debug\net8.0\01. Sort Even Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\refint\01. Sort Even Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\01. Sort Even Numbers.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\01. Sort Even Numbers\01. Sort Even Numbers\obj\Debug\net8.0\ref\01. Sort Even Numbers.dll

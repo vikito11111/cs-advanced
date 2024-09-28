@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\bin\Debug\net8.0\02. Sum Numbers.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\bin\Debug\net8.0\02. Sum Numbers.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\bin\Debug\net8.0\02. Sum Numbers.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\bin\Debug\net8.0\02. Sum Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\bin\Debug\net8.0\02. Sum Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\refint\02. Sum Numbers.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\02. Sum Numbers.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\02. Sum Numbers\02. Sum Numbers\obj\Debug\net8.0\ref\02. Sum Numbers.dll

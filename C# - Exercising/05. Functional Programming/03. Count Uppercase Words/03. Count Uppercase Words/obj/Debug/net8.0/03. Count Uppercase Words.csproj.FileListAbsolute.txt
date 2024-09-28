@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\bin\Debug\net8.0\03. Count Uppercase Words.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\bin\Debug\net8.0\03. Count Uppercase Words.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\bin\Debug\net8.0\03. Count Uppercase Words.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\bin\Debug\net8.0\03. Count Uppercase Words.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\bin\Debug\net8.0\03. Count Uppercase Words.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\refint\03. Count Uppercase Words.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\03. Count Uppercase Words.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# - Exercising\05. Functional Programming\03. Count Uppercase Words\03. Count Uppercase Words\obj\Debug\net8.0\ref\03. Count Uppercase Words.dll
