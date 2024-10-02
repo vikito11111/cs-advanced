@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\bin\Debug\net8.0\01. Car.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\bin\Debug\net8.0\01. Car.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\bin\Debug\net8.0\01. Car.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\bin\Debug\net8.0\01. Car.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\bin\Debug\net8.0\01. Car.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\refint\01. Car.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\01. Car.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\01. Car\01. Car\obj\Debug\net8.0\ref\01. Car.dll
