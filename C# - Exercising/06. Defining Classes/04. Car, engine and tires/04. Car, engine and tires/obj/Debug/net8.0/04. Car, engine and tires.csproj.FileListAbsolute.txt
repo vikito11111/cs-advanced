@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\bin\Debug\net8.0\04. Car, engine and tires.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\bin\Debug\net8.0\04. Car, engine and tires.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\bin\Debug\net8.0\04. Car, engine and tires.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\bin\Debug\net8.0\04. Car, engine and tires.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\bin\Debug\net8.0\04. Car, engine and tires.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\refint\04. Car, engine and tires.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\04. Car, engine and tires.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\04. Car, engine and tires\04. Car, engine and tires\obj\Debug\net8.0\ref\04. Car, engine and tires.dll
