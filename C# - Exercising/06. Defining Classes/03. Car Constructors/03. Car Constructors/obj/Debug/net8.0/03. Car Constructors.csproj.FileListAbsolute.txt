@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\bin\Debug\net8.0\03. Car Constructors.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\refint\03. Car Constructors.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\03. Car Constructors.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\03. Car Constructors\03. Car Constructors\obj\Debug\net8.0\ref\03. Car Constructors.dll
