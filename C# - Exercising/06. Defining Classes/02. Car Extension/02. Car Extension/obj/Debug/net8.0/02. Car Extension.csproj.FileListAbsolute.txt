@@ -1,0 +1,14 @@
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\bin\Debug\net8.0\02. Car Extension.exe
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\bin\Debug\net8.0\02. Car Extension.deps.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\bin\Debug\net8.0\02. Car Extension.runtimeconfig.json
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\bin\Debug\net8.0\02. Car Extension.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\bin\Debug\net8.0\02. Car Extension.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.AssemblyInfoInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.AssemblyInfo.cs
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.csproj.CoreCompileInputs.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\refint\02. Car Extension.dll
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.pdb
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\02. Car Extension.genruntimeconfig.cache
+D:\Coding\SoftUni\00. SoftUni - Coding\C# Advanced - Exercising\06. Defining Classes\02. Car Extension\02. Car Extension\obj\Debug\net8.0\ref\02. Car Extension.dll
