@@ -1,0 +1,14 @@
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.AssemblyInfoInputs.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.AssemblyInfo.cs
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.csproj.CoreCompileInputs.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\bin\Debug\net8.0\01. Box of T.exe
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\bin\Debug\net8.0\01. Box of T.deps.json
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\bin\Debug\net8.0\01. Box of T.runtimeconfig.json
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\bin\Debug\net8.0\01. Box of T.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\bin\Debug\net8.0\01. Box of T.pdb
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\refint\01. Box of T.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.pdb
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\01. Box of T.genruntimeconfig.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\01. Box of T\01. Box of T\obj\Debug\net8.0\ref\01. Box of T.dll
