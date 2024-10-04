@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\bin\Debug\_03.Generic_Swap_Method_String.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\bin\Debug\_03.Generic_Swap_Method_String.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\bin\Debug\_03.Generic_Swap_Method_String.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\obj\Debug\03. Generic Swap Method String.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\obj\Debug\03. Generic Swap Method String.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\obj\Debug\_03.Generic_Swap_Method_String.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\03. Generic Swap Method String\obj\Debug\_03.Generic_Swap_Method_String.pdb
