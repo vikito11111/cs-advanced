@@ -1,0 +1,14 @@
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\bin\Debug\net8.0\05. Generic Scale.exe
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\bin\Debug\net8.0\05. Generic Scale.deps.json
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\bin\Debug\net8.0\05. Generic Scale.runtimeconfig.json
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\bin\Debug\net8.0\05. Generic Scale.dll
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\bin\Debug\net8.0\05. Generic Scale.pdb
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.AssemblyInfoInputs.cache
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.AssemblyInfo.cs
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.csproj.CoreCompileInputs.cache
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.dll
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\refint\05. Generic Scale.dll
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.pdb
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\05. Generic Scale.genruntimeconfig.cache
+D:\Coding\GITHUB - Repositories\C#\01. C# Advanced\08. Generics\05. Generic Scale\05. Generic Scale\obj\Debug\net8.0\ref\05. Generic Scale.dll
