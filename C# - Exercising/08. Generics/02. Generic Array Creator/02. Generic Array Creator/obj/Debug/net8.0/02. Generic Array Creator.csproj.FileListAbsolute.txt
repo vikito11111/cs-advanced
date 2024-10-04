@@ -1,0 +1,14 @@
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\bin\Debug\net8.0\02. Generic Array Creator.exe
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\bin\Debug\net8.0\02. Generic Array Creator.deps.json
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\bin\Debug\net8.0\02. Generic Array Creator.runtimeconfig.json
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\bin\Debug\net8.0\02. Generic Array Creator.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\bin\Debug\net8.0\02. Generic Array Creator.pdb
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.AssemblyInfoInputs.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.AssemblyInfo.cs
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.csproj.CoreCompileInputs.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\refint\02. Generic Array Creator.dll
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.pdb
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\02. Generic Array Creator.genruntimeconfig.cache
+D:\Coding\Softuni - Projects\C# Advanced - Exercising\08. Generics\02. Generic Array Creator\02. Generic Array Creator\obj\Debug\net8.0\ref\02. Generic Array Creator.dll
