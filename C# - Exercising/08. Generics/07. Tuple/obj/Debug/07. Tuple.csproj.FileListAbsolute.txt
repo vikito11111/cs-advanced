@@ -1,0 +1,14 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\07. Tuple.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\07. Tuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\_07.Tuple.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\_07.Tuple.pdb
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.exe.config
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.exe
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\bin\Debug\_07.Tuple.pdb
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\07. Tuple.csproj.AssemblyReference.cache
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\07. Tuple.csproj.CoreCompileInputs.cache
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\_07.Tuple.exe
+D:\Coding\Softuni - Projects\03. C# Advanced\09. Generics\Exercise\07. Tuple\obj\Debug\_07.Tuple.pdb
