@@ -1,0 +1,7 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\bin\Debug\_08.Threeuple.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\bin\Debug\_08.Threeuple.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\bin\Debug\_08.Threeuple.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\obj\Debug\08. Threeuple.csproj.AssemblyReference.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\obj\Debug\08. Threeuple.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\obj\Debug\_08.Threeuple.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\08. Threeuple\obj\Debug\_08.Threeuple.pdb
