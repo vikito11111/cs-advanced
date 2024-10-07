@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\bin\Debug\_06.Generic_Count_Method_Double.exe.config
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\bin\Debug\_06.Generic_Count_Method_Double.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\bin\Debug\_06.Generic_Count_Method_Double.pdb
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\obj\Debug\06. Generic Count Method Double.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\obj\Debug\_06.Generic_Count_Method_Double.exe
+D:\SoftUni\SoftUni - Coding\C# Advanced\09. Generics\Exercise\06. Generic Count Method Double\obj\Debug\_06.Generic_Count_Method_Double.pdb
